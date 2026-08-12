@@ -7,3 +7,4 @@
 
 verify with `opencode mcp list` to ensure the MCP has been added successfully.
 then chat with opencode
+
